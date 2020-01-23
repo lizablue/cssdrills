@@ -9,3 +9,12 @@ a {
     text-decoration: none;
     color: #333333;
 }
+a:hover {
+    cursor: pointer;
+    font-style: bold;
+    color: gold;
+}
+span {
+    color: darkseagreen;
+    font-weight: 600;
+}

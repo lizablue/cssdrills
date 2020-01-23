@@ -1,11 +1,11 @@
 body {
     font: open sans, sans serif;
-    color: #aaaaaa; 
+    background-color: #eeeeee; 
 }
-h2 p a {
+h2, p, .readme-wrapper {
     text-align: center;
 }
 a {
     text-decoration: none;
-    color: black;
+    color: #333333;
 }

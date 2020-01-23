@@ -1,0 +1,11 @@
+body {
+    font: open sans, sans serif;
+    color: #aaaaaa; 
+}
+h2 p a {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: black;
+}

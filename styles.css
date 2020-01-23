@@ -25,12 +25,16 @@ span {
     border-color: darkslategray;
     border-radius: 30px;
     border-width: .3em;
+    display: block;
 }
 #box1 {
     background-color: darkgreen;
 }
 #box2 {
     background-color: darkred;
+    position: absolute;
+    bottom: 470px;
+    left: 850px;
 }
 #box3 {
     background-color: blue;

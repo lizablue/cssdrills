@@ -18,3 +18,23 @@ span {
     color: darkseagreen;
     font-weight: 600;
 }
+.boxes {
+    margin: 10px;
+    padding: 5px 10px 20px;
+    border-style: solid;
+    border-color: darkslategray;
+    border-radius: 30px;
+    border-width: .3em;
+}
+#box1 {
+    background-color: darkgreen;
+}
+#box2 {
+    background-color: darkred;
+}
+#box3 {
+    background-color: blue;
+}
+#box4 {
+    background-color: yellow;
+}
